@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Yerusu Balaji Reddy 👋
 
-<!--
-**Balaji19072007/Balaji19072007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student at Andhra University College of Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Engineer
+
+🌱 Currently learning:
+- Java
+- Data Structures & Algorithms
+- Full Stack Development
+- Android Development
+- Unity Game Development
+
+## Projects
+
+🚀 CS Studio – AI-powered learning platform
+
+📱 Habit Tracker – Daily habit tracking application
+
+🎮 Loose End – Original mobile puzzle game (In Development)
+
+## Skills
+
+- Java
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+- SQL
+- Unity
+
+## Connect with Me
+
+- LinkedIn: YOUR_LINKEDIN_PROFILE
+- Email: balajireddy9976@gmail.com
+
+Thanks for visiting my profile! 😊
